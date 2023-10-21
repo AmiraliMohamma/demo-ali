@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -17,7 +16,6 @@
     <link rel="stylesheet" href=".//Assets/css/-header.css">
     <link rel="stylesheet" href=".//Assets/css/-course.css">
 </head>
-
 <body>
     <!-- start contact section -->
     <div class="container-fluid container-fluid-custom">
@@ -104,14 +102,10 @@
         </div>
     </section>
     <br><br><br><br><br><br><br><br><br><br><br><br>
- 
     <div class="pord">
         <input type="text">
-        
     </div>
     <!-- end course section -->
     <script src="./Assets/js/main.js"></script>
-
 </body>
-
 </html>
